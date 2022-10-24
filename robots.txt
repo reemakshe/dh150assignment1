@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://reemakshe.github.io/dh150assignment1/sitemap.xml
